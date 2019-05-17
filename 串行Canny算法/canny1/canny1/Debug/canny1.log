@@ -1,0 +1,17 @@
+﻿  example.c
+c:\users\mibyb\source\repos\canny1\canny1\fast-edge.h(33): warning C4005: “min”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1301): note: 参见“min”的前一个定义
+c:\users\mibyb\source\repos\canny1\canny1\fast-edge.h(34): warning C4005: “max”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1300): note: 参见“max”的前一个定义
+  fast-edge.c
+c:\users\mibyb\source\repos\canny1\canny1\fast-edge.h(33): warning C4005: “min”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1301): note: 参见“min”的前一个定义
+c:\users\mibyb\source\repos\canny1\canny1\fast-edge.h(34): warning C4005: “max”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1300): note: 参见“max”的前一个定义
+c:\users\mibyb\source\repos\canny1\canny1\fast-edge.c(151): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\mibyb\source\repos\canny1\canny1\fast-edge.c(242): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\mibyb\source\repos\canny1\canny1\fast-edge.c(386): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\mibyb\source\repos\canny1\canny1\fast-edge.c(398): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  imageio.c
+  正在生成代码...
+  canny1.vcxproj -> C:\Users\mibyb\source\repos\canny1\Debug\canny1.exe
