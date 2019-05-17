@@ -1,0 +1,7 @@
+需要查看以下内容，请输入对应路径
+
+1.串行的Canny算法代码：16337208_石邢越_Canny算法SIMD优化\串行Canny算法\canny1\canny1
+2.IPP优化的Canny算法代码：16337208_石邢越_Canny算法SIMD优化\IPP优化Canny算法\IPP\IPP
+3.串行的Canny算法可执行文件和用到的测试图像：16337208_石邢越_Canny算法SIMD优化\串行Canny算法\canny1\Debug
+4.IPP优化的Canny算法可执行文件和用到的测试图像：16337208_石邢越_Canny算法SIMD优化\IPP优化Canny算法\IPP\Debug
+5.串行代码、OpenMP优化代码和IPP优化代码的运行用时数据：16337208_石邢越_Canny算法SIMD优化\运行用时统计
